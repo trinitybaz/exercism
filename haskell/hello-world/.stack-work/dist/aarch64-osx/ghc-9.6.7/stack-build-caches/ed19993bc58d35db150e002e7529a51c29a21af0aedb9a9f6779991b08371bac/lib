@@ -1,0 +1,12 @@
+/Users/trinitybaz/.ghcup/ghc/9.6.7/lib/ghc-9.6.7/lib/aarch64-osx-ghc-9.6.7/rts-1.0.2/include/ghcversion.h:
+  hash: 215ddac5a644eddece4748021e2caff6400a517822aedd66e9e9caf511124db8
+/Users/trinitybaz/Exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/ghc-9.6.7/build/autogen/Paths_hello_world.hs:
+  hash: 69a35d800d70f55e104c1d3da48fbfdc3408405810cfbf9448b756eea5ccad7e
+/Users/trinitybaz/Exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/ghc-9.6.7/build/autogen/cabal_macros.h:
+  hash: 0530c7c2860e0635311867bb3fca97dab68ab42be0aa37548b8bf987972d1d16
+/Users/trinitybaz/Exercism/haskell/hello-world/hello-world.cabal:
+  hash: c61dc243de673903467061550d0439bf37acc4eae5a1085bd3d25573480992d3
+/Users/trinitybaz/Exercism/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/Users/trinitybaz/Exercism/haskell/hello-world/src/HelloWorld.hs:
+  hash: 166722a5408adfc55649132fda695e6d531b9b170993936ca18f9e30555840b3
