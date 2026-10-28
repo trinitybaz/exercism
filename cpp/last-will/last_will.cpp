@@ -53,6 +53,7 @@ int assemble_code() {
   const int red = zhang::red::code_fragment() + khan::red::code_fragment() +
                   garcia::red::code_fragment();
   const int blue = zhang::blue::code_fragment() + khan::blue::code_fragment() +
-                   garcia::blue::code_fragment()
+                   garcia::blue::code_fragment();
+  return red * blue;
 }
 } // namespace estate_executor
